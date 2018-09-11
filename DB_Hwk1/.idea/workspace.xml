@@ -13,25 +13,26 @@
     <session id="1519756574">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="13" />
-          <entry key="txt" value="11" />
+          <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="13" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -61,13 +62,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Attribute.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="558">
               <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/test_schema.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -220,7 +226,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1920" />
     <option name="width" value="1920" />
     <option name="height" value="2060" />
@@ -249,7 +255,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,20 +265,26 @@
             <path>
               <item name="DB_Hwk1" type="b2602c69:ProjectViewProjectNode" />
               <item name="DB_Hwk1" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DB_Hwk1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DB_Hwk1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536044533892" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536707787578" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -408,11 +419,12 @@
       <workItem from="1536025021459" duration="16710000" />
       <workItem from="1536280886912" duration="24000" />
       <workItem from="1536691118498" duration="685000" />
+      <workItem from="1536707748904" duration="97000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44148000" />
+    <option name="totallyTimeSpent" value="44245000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -424,10 +436,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48300284" visible="true" weight="0.19584171" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48300284" visible="true" weight="0.09590878" />
       <window_info id="Structure" order="1" sideWeight="0.51699716" side_tool="true" weight="0.18779343" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -663,6 +674,9 @@
           <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_schema.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
