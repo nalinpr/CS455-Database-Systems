@@ -13,7 +13,7 @@
     <session id="1519756574">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.2" value="1" />
@@ -84,17 +84,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1072">
               <caret line="96" column="59" selection-start-line="96" selection-start-column="59" selection-end-line="96" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../DB_Hwk2/src/AbstractRelation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-234">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -289,7 +278,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536044533892" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DB_Hwk2" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -428,7 +417,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44740000" />
+    <option name="totallyTimeSpent" value="44781000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -441,7 +430,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48300284" visible="true" weight="0.36284372" />
       <window_info id="Structure" order="1" sideWeight="0.51699716" side_tool="true" weight="0.18779343" />
