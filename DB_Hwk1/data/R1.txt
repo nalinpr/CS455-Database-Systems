@@ -1,4 +1,0 @@
-10|'Springfield'
-20|'Columbus'
-30|'Seattle'
-40|'Portland'

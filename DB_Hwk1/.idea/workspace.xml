@@ -13,26 +13,25 @@
     <session id="1519756574">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="13" />
-          <entry key="txt" value="12" />
+          <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="13" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -69,11 +68,6 @@
               <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/test_schema.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -264,11 +258,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< refs/remotes/origin/db_hw2
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-=======
->>>>>>> local
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -290,19 +279,15 @@
           <select />
         </subPane>
       </pane>
-<<<<<<< refs/remotes/origin/db_hw2
-      <pane id="PackagesPane" />
-=======
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
->>>>>>> local
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536707787578" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536044533892" />
     <property name="last.edited.regexp" value="Sample Text" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -439,16 +424,11 @@
       <workItem from="1536025021459" duration="16710000" />
       <workItem from="1536280886912" duration="24000" />
       <workItem from="1536691118498" duration="685000" />
-      <workItem from="1536707748904" duration="97000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< refs/remotes/origin/db_hw2
-    <option name="totallyTimeSpent" value="44245000" />
-=======
-    <option name="totallyTimeSpent" value="44156000" />
->>>>>>> local
+    <option name="totallyTimeSpent" value="44740000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,14 +441,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-<<<<<<< refs/remotes/origin/db_hw2
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48300284" visible="true" weight="0.09590878" />
-=======
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48300284" visible="true" weight="0.09859155" />
->>>>>>> local
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48300284" visible="true" weight="0.36284372" />
       <window_info id="Structure" order="1" sideWeight="0.51699716" side_tool="true" weight="0.18779343" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -698,10 +673,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< refs/remotes/origin/db_hw2
-    <entry file="file://$PROJECT_DIR$/data/test_schema.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-=======
     <entry file="file://$PROJECT_DIR$/../../../DB_Hwk2/src/AbstractRelation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-234">
@@ -717,7 +688,6 @@
           <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
         </state>
       </provider>
->>>>>>> local
     </entry>
   </component>
   <component name="masterDetails">
